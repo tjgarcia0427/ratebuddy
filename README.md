@@ -168,3 +168,10 @@ PRs welcome — open an issue first for anything bigger than a small bug fix.
 ## License
 
 MIT.
+
+---
+
+> **About this codebase:** built collaboratively with AI assistance
+> (Claude). Architecture, scope, and design decisions are mine; I use
+> AI as a senior pair-programmer for code generation and review. Happy
+> to walk through any part of this codebase in detail in an interview.
